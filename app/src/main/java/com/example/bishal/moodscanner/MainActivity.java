@@ -30,18 +30,18 @@ public class MainActivity extends AppCompatActivity {
 
         moodResults = new String[] {
                 "Someone is cranky!",
-                "You are my sunshine!",
+                "You are my sunshine! :)",
                 "No comments...",
                 "You're stressed out!",
                 "Happy camper :)",
                 "Not your day :(",
-                "Smile - it's good for you.",
+                "Smile - it's good for you :)",
                 "In the clouds...",
-                "Pensive!",
-                "Sad!",
+                "Sad :(",
+                "Angry >.<",
                 "Excited!",
                 "Someone is happy today :)",
-                "Take a break..",
+                "Take a break.. :|",
                 "Wow you are on fire :)"
 
         };
